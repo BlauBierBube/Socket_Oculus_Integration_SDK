@@ -13,7 +13,7 @@ public class CustomSoket : MonoBehaviour
     public Material HoverMat;
     private Material[] mat;
     private Rigidbody rig;
-    public bool Freeze = false;
+    public bool Freeze = true;
     public bool wasInSoket = false;
 
     public UnityEvent SelectEnter;
