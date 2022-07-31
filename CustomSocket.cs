@@ -6,7 +6,7 @@ using UnityEngine.Events;
 using Oculus.Interaction;
 
 
-public class CustomSoket : MonoBehaviour
+public class CustomSocket : MonoBehaviour
 {
     public LayerMask Layer;
     public GameObject Attach;
