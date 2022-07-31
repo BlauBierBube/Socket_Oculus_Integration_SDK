@@ -15,5 +15,7 @@ I changed on the "Grabbable" Script the "_ActiveTransformer" from private to pub
 
 To create a Socket you have to create an emptyobject with an collider ( Box, Capsle etc. ) and add the custom Socket Script.
 The Field for Attach is the place where the object get placed on.
+I created an childobject and placed it in Attach.
+
 The HoverMat is for the Hover Instance of the target.
 
